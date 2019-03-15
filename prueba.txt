@@ -1,2 +1,3 @@
-Vamos a escribir algo con m·s sentido.
-otra lÌnea.
+Vamos a escribir algo con m√°s sentido.
+otra l√≠nea.
+Modificamos desde GitHub.
